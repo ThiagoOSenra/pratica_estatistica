@@ -37,7 +37,7 @@ A proporção de escolas que possuem laboratório de ciências por município do
 
 A proporção de escolas com acesso a água potável por município do Rio de Janeiro.
 
-### 🧪 Proporção de Escolas com Alimentação Escolar `(taxa_alimentacao)`
+### 🍽️  Proporção de Escolas com Alimentação Escolar `(taxa_alimentacao)`
 
 A proporção de escolas que oferecem alimentação escolar por município do Rio de Janeiro.
 
