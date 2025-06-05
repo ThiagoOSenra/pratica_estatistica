@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-# pratica_estatistica
-
-132132
-=======
 # 📊 Implementação de Indicadores Educacionais - Censo Escolar 2024
 
 Este projeto tem como objetivo importar e explorar a base de dados do **Censo Escolar 2024** para implementar indicadores educacionais com base nos municípios do Rio de Janeiro.
@@ -53,10 +47,6 @@ A proporção de escolas que oferecem alimentação escolar por município do Ri
 
 📦 pratica-estatistica
 
-. ┣ 📂 base_dados
-
-. ┃ ┗ 📄 dicionário_dados_educação_básica, microdados_ed_basica_2024
-
 . ┣ 📂 indicadores
 
 . ┃ ┗ 📄 dados_indicadores, indicadores_educacionais
@@ -64,4 +54,3 @@ A proporção de escolas que oferecem alimentação escolar por município do Ri
 . ┣ 📜 README.md
 
 . ┗ 📜 script_indicadores.R
->>>>>>> 50f20bf (upando projeto)
